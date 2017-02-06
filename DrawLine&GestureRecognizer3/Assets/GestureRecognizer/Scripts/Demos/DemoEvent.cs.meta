@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7530eeac462ef4c85ad416b1a670155d
+timeCreated: 1480975284
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - messageArea: {instanceID: 0}
+  - task: {instanceID: 0}
+  - envelopeOpen: {fileID: 21300000, guid: 1cdce257c3610e2468a5c61f1c02caa1, type: 3}
+  - cirkle: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

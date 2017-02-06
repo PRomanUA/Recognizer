@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{D223CE3D-3C79-C44F-E8C9-3A18DD662272}") = "DrawLine&GestureRecognizer3", "Assembly-CSharp.csproj", "{00C1A52C-071E-5D38-94BA-5117B044EB07}"
+EndProject
+Project("{D223CE3D-3C79-C44F-E8C9-3A18DD662272}") = "DrawLine&GestureRecognizer3", "Assembly-CSharp-Editor.csproj", "{4828F5EB-A249-098C-A893-31C580AED9F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00C1A52C-071E-5D38-94BA-5117B044EB07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00C1A52C-071E-5D38-94BA-5117B044EB07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00C1A52C-071E-5D38-94BA-5117B044EB07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00C1A52C-071E-5D38-94BA-5117B044EB07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4828F5EB-A249-098C-A893-31C580AED9F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4828F5EB-A249-098C-A893-31C580AED9F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4828F5EB-A249-098C-A893-31C580AED9F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4828F5EB-A249-098C-A893-31C580AED9F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	
+EndGlobal

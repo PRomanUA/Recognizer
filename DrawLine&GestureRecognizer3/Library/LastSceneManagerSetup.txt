@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/GestureRecognizer/Scenes/StartPage.unity
+  isLoaded: 1
+  isActive: 1
